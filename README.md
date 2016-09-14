@@ -1,4 +1,6 @@
-#Welcome to the Northeastern University's Women Who Code Workshop: Introduction to Python Workshop#
+
+<h1>Welcome to Women Who Code's: Introduction to Python Workshop</h1>
+<h2>sponsored by Northeastern University, Seattle, WA</h2>
 
 The materials collected in this repository are a collaborative effort between Caroline Harbitz (https://github.com/cterp) and Gina Schmalzle (https://github.com/ginaschmalzle).  The original repository may be found at: 
 ```https://github.com/ginaschmalzle/git-your-python-booty.git```. We have ruthlessly adapted this work for our own purposes for this Women Who Code Python workshop and have added more Pythony notebooks for additional fun. Enjoy!
