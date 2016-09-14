@@ -1,4 +1,4 @@
-#Welcome to Introduction to Python 2016!
+#Welcome to Introduction to Python 2016!!
 
 The materials collected in this repository are a collaborative effort between Caroline Harbitz (https://github.com/cterp) and myself (https://github.com/ginaschmalzle).  The purpose -- learn Python!  Why? 'Cause it's cool.
 
