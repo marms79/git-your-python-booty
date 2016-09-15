@@ -9,7 +9,7 @@ This repository contains all the information you need to participate in the work
 
 ##Directions to download this repository:
 
-You can download this repository to your local machine by clicking the 'Download ZIP' button on this webpage.  Or, if you want to impress your friends you can do it this way:
+You can download this repository to your local machine by clicking the green Clone or Download button on this webpage then click Download Zip.  Or, if you want to impress your friends you can do it this way:
 
 1. Open a terminal
 2. Make sure you have git installed.  You can check by typing ```which git``` at the terminal prompt.  If a path appears continue to step 4.
