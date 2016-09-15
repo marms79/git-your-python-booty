@@ -1,6 +1,9 @@
-#Welcome to Introduction to Python 2016!
 
-The materials collected in this repository are a collaborative effort between Caroline Harbitz (https://github.com/cterp) and myself (https://github.com/ginaschmalzle).  The purpose -- learn Python!  Why? 'Cause it's cool.
+<h1>Welcome to Women Who Code's: Introduction to Python Workshop</h1>
+<h2>sponsored by Northeastern University, Seattle, WA</h2>
+
+The materials collected in this repository were adapted by Katherine Porterfield and Brenda Praggastis from a workshop developed by  Caroline Harbitz (https://github.com/cterp) and Gina Schmalzle (https://github.com/ginaschmalzle).  Their original repository may be found at: 
+```https://github.com/ginaschmalzle/git-your-python-booty.git```. Enjoy!
 
 This repository contains all the information you need to participate in the workshop.  It contains interactive python notebooks and tutorials, as well as some practice assignments.  
 
@@ -12,7 +15,7 @@ You can download this repository to your local machine by clicking the 'Download
 2. Make sure you have git installed.  You can check by typing ```which git``` at the terminal prompt.  If a path appears continue to step 4.
 3. Install git (https://git-scm.com/book/en/v1/Getting-Started-Installing-Git). If you are on a mac, we recommend using homebrew (http://brew.sh/) to install git.
 4. In your working directory type:
-    ```git clone https://github.com/ginaschmalzle/git-your-python-booty.git```
+    ```git clone https://github.com/bpraggastis/git-your-python-booty.git```
 
 Interested in using git?
 
