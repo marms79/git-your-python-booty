@@ -48,6 +48,10 @@ Once you have pip installed move to your cloned directory and type:
 
     pip install -r requirements.txt
 
+Install ggplot 
+   
+   pip install ggplot
+
 To start your session type:
 
     jupyter notebook
